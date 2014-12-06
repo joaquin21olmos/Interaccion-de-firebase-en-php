@@ -1,7 +1,7 @@
 <?php
 
 // Constants
-$FIREBASE = "https://sweltering-heat-4701.firebaseio.com/";
+$FIREBASE = "_YOUR_FIREBASE_URL_";
 $NODE_DELETE = "temperature.json";
 $NODE_GET = "temperature.json";
 $NODE_PATCH = ".json";
